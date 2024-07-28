@@ -1,0 +1,1 @@
+export const REACT_APP_API_URL='https://7103.api.greenapi.com'
